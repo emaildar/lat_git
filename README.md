@@ -1,4 +1,4 @@
-# Latihan Githun
-###### Latihan Githun
+# Latihan Github
+###### Latihan Github
 
 ini cuma latihan
